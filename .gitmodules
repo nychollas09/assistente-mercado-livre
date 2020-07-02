@@ -7,3 +7,6 @@
 [submodule "mobile"]
 	path = mobile
 	url = https://github.com/nychollas09/assistente-mercado-livre-mobile
+[submodule "ux-ui"]
+	path = ux-ui
+	url = https://github.com/nychollas09/assistente-mercado-livre-ui-ux
