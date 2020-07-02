@@ -1,0 +1,9 @@
+[submodule "web"]
+	path = web
+	url = https://github.com/nychollas09/assistente-mercado-livre-web
+[submodule "api"]
+	path = api
+	url = https://github.com/nychollas09/assistente-mercado-livre-api
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/nychollas09/assistente-mercado-livre-mobile
